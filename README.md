@@ -9,7 +9,7 @@ review , make order , payment , shipment , admin area.
 
 
   
-1- import dump DB ( demo.sql )
+1- import dump DB ( demo.sql ) <br>
 2- admin area : http://{base _url}/admin
 -- username :  admin@example.com
 -- password : admin123
