@@ -11,7 +11,7 @@ review , make order , payment , shipment , admin area.
   
 1- import dump DB ( demo.sql ) <br>
 2- admin area : http://{base _url}/admin <br>
--- username :  admin@example.com
+-- username :  admin@example.com <br>
 -- password : admin123
   
 
